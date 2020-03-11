@@ -1,0 +1,31 @@
+{
+  "name": "@adrianso/react-native-barcode-builder",
+  "version": "1.0.8",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianso/react-native-barcode-builder.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "keywords": [
+    "react-native",
+    "barcode"
+  ],
+  "author": "Adrian So <adrian@sld.co.nz>",
+  "dependencies": {
+    "jsbarcode": "^3.11.0",
+    "react-native-svg": "^11.0.1"
+  },
+  "peerDependencies": {
+    "react-native-svg": "^11.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.18.3"
+  }
+}
