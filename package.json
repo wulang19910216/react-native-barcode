@@ -18,10 +18,10 @@
   "author": "Adrian So <adrian@sld.co.nz>",
   "dependencies": {
     "jsbarcode": "^3.11.0",
-    "react-native-svg": "^11.0.1"
+    "react-native-svg": "^12.0.3",
   },
   "peerDependencies": {
-    "react-native-svg": "^11.0.1"
+    "react-native-svg": "^12.0.3"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
